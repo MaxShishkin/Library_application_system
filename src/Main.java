@@ -15,10 +15,6 @@ public class Main {
                 Storage storage = new Storage(books);
                 Storage storage_available = new Storage(available_books);
                 boolean flag = false;
-                boolean flag_ID = false;
-                boolean flag_title = false;
-                boolean flag_surname = false;
-                boolean flag_yearOfPublish = false;
                 int id = 0;
                 String title = "";
                 String surname = "";
